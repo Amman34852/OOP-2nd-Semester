@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\Task15\Task15\bin\Debug\Task15.exe.config
+C:\Users\dell\Desktop\Task15\Task15\bin\Debug\Task15.exe
+C:\Users\dell\Desktop\Task15\Task15\bin\Debug\Task15.pdb
+C:\Users\dell\Desktop\Task15\Task15\obj\Debug\Task15.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Task15\Task15\obj\Debug\Task15.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Task15\Task15\obj\Debug\Task15.exe
+C:\Users\dell\Desktop\Task15\Task15\obj\Debug\Task15.pdb

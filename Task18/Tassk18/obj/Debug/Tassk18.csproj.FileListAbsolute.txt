@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\Tassk18\Tassk18\bin\Debug\Tassk18.exe.config
+C:\Users\dell\Desktop\Tassk18\Tassk18\bin\Debug\Tassk18.exe
+C:\Users\dell\Desktop\Tassk18\Tassk18\bin\Debug\Tassk18.pdb
+C:\Users\dell\Desktop\Tassk18\Tassk18\obj\Debug\Tassk18.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Tassk18\Tassk18\obj\Debug\Tassk18.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Tassk18\Tassk18\obj\Debug\Tassk18.exe
+C:\Users\dell\Desktop\Tassk18\Tassk18\obj\Debug\Tassk18.pdb

@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\Task19\Task19\bin\Debug\Task19.exe.config
+C:\Users\dell\Desktop\Task19\Task19\bin\Debug\Task19.exe
+C:\Users\dell\Desktop\Task19\Task19\bin\Debug\Task19.pdb
+C:\Users\dell\Desktop\Task19\Task19\obj\Debug\Task19.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Task19\Task19\obj\Debug\Task19.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Task19\Task19\obj\Debug\Task19.exe
+C:\Users\dell\Desktop\Task19\Task19\obj\Debug\Task19.pdb

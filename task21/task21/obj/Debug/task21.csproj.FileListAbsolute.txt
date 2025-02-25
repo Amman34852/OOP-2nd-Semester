@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\task21\task21\bin\Debug\task21.exe.config
+C:\Users\dell\Desktop\task21\task21\bin\Debug\task21.exe
+C:\Users\dell\Desktop\task21\task21\bin\Debug\task21.pdb
+C:\Users\dell\Desktop\task21\task21\obj\Debug\task21.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\task21\task21\obj\Debug\task21.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\task21\task21\obj\Debug\task21.exe
+C:\Users\dell\Desktop\task21\task21\obj\Debug\task21.pdb

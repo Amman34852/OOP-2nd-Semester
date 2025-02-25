@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\task17\task17\obj\Debug\task17.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\task17\task17\obj\Debug\task17.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\task17\task17\bin\Debug\task17.exe.config
+C:\Users\dell\Desktop\task17\task17\bin\Debug\task17.exe
+C:\Users\dell\Desktop\task17\task17\bin\Debug\task17.pdb
+C:\Users\dell\Desktop\task17\task17\obj\Debug\task17.exe
+C:\Users\dell\Desktop\task17\task17\obj\Debug\task17.pdb
