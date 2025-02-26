@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\lab4PS3\lab4PS3\bin\Debug\lab4PS3.exe.config
+C:\Users\dell\Desktop\lab4PS3\lab4PS3\bin\Debug\lab4PS3.exe
+C:\Users\dell\Desktop\lab4PS3\lab4PS3\bin\Debug\lab4PS3.pdb
+C:\Users\dell\Desktop\lab4PS3\lab4PS3\obj\Debug\lab4PS3.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\lab4PS3\lab4PS3\obj\Debug\lab4PS3.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\lab4PS3\lab4PS3\obj\Debug\lab4PS3.exe
+C:\Users\dell\Desktop\lab4PS3\lab4PS3\obj\Debug\lab4PS3.pdb

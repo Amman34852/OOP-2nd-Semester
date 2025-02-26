@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\Lab4PS2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CB8480-6D35-49CE-976D-DFFFD3C2C8F7}|Lab4PS2\\Lab4PS2.csproj|c:\\users\\dell\\desktop\\lab4ps2\\lab4ps2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CB8480-6D35-49CE-976D-DFFFD3C2C8F7}|Lab4PS2\\Lab4PS2.csproj|solutionrelative:lab4ps2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CB8480-6D35-49CE-976D-DFFFD3C2C8F7}|Lab4PS2\\Lab4PS2.csproj|C:\\Users\\dell\\Desktop\\Lab4PS2\\lab4ps2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CB8480-6D35-49CE-976D-DFFFD3C2C8F7}|Lab4PS2\\Lab4PS2.csproj|solutionrelative:lab4ps2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Lab4PS2\\Lab4PS2\\Book.cs",
+              "RelativeDocumentMoniker": "Lab4PS2\\Book.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Lab4PS2\\Lab4PS2\\Book.cs",
+              "RelativeToolTip": "Lab4PS2\\Book.cs",
+              "ViewState": "AgIAABYAAACA+/////8fwCYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T07:45:46.799Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Lab4PS2\\Lab4PS2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4PS2\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Lab4PS2\\Lab4PS2\\Program.cs",
+              "RelativeToolTip": "Lab4PS2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T07:45:09.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

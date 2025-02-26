@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\lab4PS3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62C68E7E-D59B-4983-9EC6-467C4AF66012}|lab4PS3\\lab4PS3.csproj|c:\\users\\dell\\desktop\\lab4ps3\\lab4ps3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C68E7E-D59B-4983-9EC6-467C4AF66012}|lab4PS3\\lab4PS3.csproj|solutionrelative:lab4ps3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C68E7E-D59B-4983-9EC6-467C4AF66012}|lab4PS3\\lab4PS3.csproj|c:\\users\\dell\\desktop\\lab4ps3\\lab4ps3\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C68E7E-D59B-4983-9EC6-467C4AF66012}|lab4PS3\\lab4PS3.csproj|solutionrelative:lab4ps3\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C68E7E-D59B-4983-9EC6-467C4AF66012}|lab4PS3\\lab4PS3.csproj|c:\\users\\dell\\desktop\\lab4ps3\\lab4ps3\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C68E7E-D59B-4983-9EC6-467C4AF66012}|lab4PS3\\lab4PS3.csproj|solutionrelative:lab4ps3\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\lab4PS3\\lab4PS3\\Customer.cs",
+              "RelativeDocumentMoniker": "lab4PS3\\Customer.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\lab4PS3\\lab4PS3\\Customer.cs",
+              "RelativeToolTip": "lab4PS3\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:16:23.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\lab4PS3\\lab4PS3\\Product.cs",
+              "RelativeDocumentMoniker": "lab4PS3\\Product.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\lab4PS3\\lab4PS3\\Product.cs",
+              "RelativeToolTip": "lab4PS3\\Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAABMPRUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:16:10.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\lab4PS3\\lab4PS3\\Program.cs",
+              "RelativeDocumentMoniker": "lab4PS3\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\lab4PS3\\lab4PS3\\Program.cs",
+              "RelativeToolTip": "lab4PS3\\Program.cs",
+              "ViewState": "AgIAABMAAADA+/////8fwB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:15:24.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

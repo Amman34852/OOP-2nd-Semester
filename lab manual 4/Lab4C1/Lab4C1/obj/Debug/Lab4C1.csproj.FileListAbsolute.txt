@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\Lab4C1\Lab4C1\bin\Debug\Lab4C1.exe.config
+C:\Users\dell\Desktop\Lab4C1\Lab4C1\bin\Debug\Lab4C1.exe
+C:\Users\dell\Desktop\Lab4C1\Lab4C1\bin\Debug\Lab4C1.pdb
+C:\Users\dell\Desktop\Lab4C1\Lab4C1\obj\Debug\Lab4C1.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Lab4C1\Lab4C1\obj\Debug\Lab4C1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Lab4C1\Lab4C1\obj\Debug\Lab4C1.exe
+C:\Users\dell\Desktop\Lab4C1\Lab4C1\obj\Debug\Lab4C1.pdb
